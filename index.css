@@ -1,0 +1,78 @@
+body{
+    background-color:#1F2937;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+#G{
+color: white;
+font-family: 'Karla';
+font-style: normal;
+font-weight: 800;
+font-size: 40px;
+}
+#r{
+font-family: 'Karla';
+font-style: normal;
+font-weight: 800;
+font-size: 40px;
+    color: #4ADF86;
+}
+#N{
+    color:#D5D4D8;
+     font-family: 'Inter';
+     font-style: normal;
+     font-weight: 400;
+    font-size: 20px;
+    line-height: 28px;
+}
+#btn{
+   background-color:  #4ADF86;
+   color: white;
+   padding: 10px 12px;
+   border-radius: 10px;
+   margin-top: 20px;
+   cursor: pointer;
+   font-family: 'Inter';
+   font-style: normal;
+   font-weight: 500;
+   font-size: 16px;
+}
+div{
+display: flex;
+flex-direction:row;
+}
+p{
+    border: 1px solid #2F3E53;
+}
+#get-E{
+   height: 40px;
+   width: 250px;
+   padding-top: 15px;
+   border-radius: 10px;
+   background-color: #273549;
+   color:#4ADF86;
+   margin-top: 20px ; 
+   margin-right: 20px;
+   font-family: 'Inter';
+   font-style: normal;
+   font-weight: 500;
+   font-size: 16px;
+   line-height: 32px;
+   text-align: center;
+}
+.eg{
+    height: 40px;
+    width: 250px;
+    padding-top:15px;
+    border-radius: 10px;
+    background-color: #273549;
+    color:#4ADF86;
+    margin-top: 20px;
+    margin-left: 20px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px; 
+    line-height: 32px;
+    text-align: center;
+}
